@@ -9,12 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mantine/core": "^2.0.4",
+    "@mantine/hooks": "^2.0.4",
+    "@mantine/notifications": "^2.0.4",
+    "algoliasearch": "^4.10.3",
+    "instantsearch.js": "^4.25.1",
     "next": "11.0.1",
+    "prop-types": "^15.7.2",
+    "qs": "^6.10.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-instantsearch-dom": "^6.12.0",
+    "react-jss": "^10.7.1"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.171",
     "@types/react": "17.0.14",
+    "@types/react-instantsearch-dom": "^6.10.2",
     "eslint": "7.30.0",
     "eslint-config-next": "11.0.1",
     "typescript": "4.3.5"
